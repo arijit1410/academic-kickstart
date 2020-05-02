@@ -18,18 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Science Intern"
+  company = "UnitedHealth Group"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Bengaluru"
+  date_start = "2020-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """ Part of the Data Science/NLP Team """ 
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Built a question answer scoring system, and a novel feature importance algorithm to score Request For Proposals issued by the US Government.
+  * Created a query resolution system that learns user behaviour and assists UHC operators to reduce average handling time by 38 seconds, effectively saving 72000$.
+  * Built a disease prediction system, along with a synthetic data generation algorithm, that can predict occurences of disease based on visit history.
+  * Created a One-Function-Classification Library that lowers the effort and time needed to train Transformer based NLP models.
+  * Undertook multiple learning sessions for Deep Learning in NLP as part of an upskilling drive.
+
   """
 
 [[experience]]
