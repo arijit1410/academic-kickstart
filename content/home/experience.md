@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Created a One-Function-Classification Library that lowers the effort and time needed to train Transformer based NLP models.
   * Undertook multiple learning sessions for Deep Learning in NLP as part of an upskilling drive.
 
-  """
+ 
 
 [[experience]]
   title = "Professor"
