@@ -67,3 +67,6 @@ user_groups:
 I am primarily interested in AI and its applications to various domains such as natural language, Advanced Information Retrieval, etc. I have completed multiple projects and initiatives focused on using deep learning and AI which have helped me develop strong domain knowledge and somewhat useful skills, 
 
 My NLP research experience has taken me to ACL 2019, NAACL 2019 and ACM Hypertext 2019. Apart from research in academia, I also have a diverse experience working with industry giants, early stage startups and student project teams. 
+
+I am currently working at UnitedHealth Group as a Data Scientist. My work here involves applied research on Clinical NLP (Disease prediction, NER on unstructured lab reports, ICD embeddings) and advanced information extraction from clinical documents.
+
