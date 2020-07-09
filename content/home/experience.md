@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bengaluru"
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "2020-07-07"
   description = """ Projects :-
   
   
@@ -55,10 +55,26 @@ Projects
 * Novel ways for data augmentation in NLP.
 * Style Transfer in Text.
 
+"""
+
+[[experience]]
+  title = "Data Science Intern"
+  company = "RentSher Indiare"
+  company_url = "https://www.rentsher.com/bangalore"
+  location = "Bangalore"
+  date_start = "2019-5-5"
+  date_end = "2019-7-7"
+  description = """
+
+Data Science for the Online Rental Industry
+
+Projects
 
 
-
-
+* Built the module for items frequently bought together from scratch. Integrated the module using AWS.
+* Improved the existing customer care chatbot framework. Increased customer retention and lead generation.
+* mplemented a digital KYC system to automatically
+flag users based on documents they have uploaded
 
 
 """
