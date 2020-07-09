@@ -62,8 +62,8 @@ Projects
   company = "RentSher Indiare"
   company_url = "https://www.rentsher.com/bangalore"
   location = "Bangalore"
-  date_start = "2019-5-5"
-  date_end = "2019-7-7"
+  date_start = "2019-05-05"
+  date_end = "2019-07-07"
   description = """
 
 Data Science for the Online Rental Industry
