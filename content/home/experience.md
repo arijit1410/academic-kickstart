@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   company_url = "http://midas.iiitd.edu.in/"
   location = "New Delhi"
   date_start = "2018-11-11"
-  date_end = " "
+  date_end = ""
   description = """
 Industry/Academia Collaborations - Bloomberg USA, MIT CSAIL, NUS Singapore, Adobe Research
 
