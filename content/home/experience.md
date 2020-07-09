@@ -24,24 +24,43 @@ date_format = "Jan 2006"
   location = "Bengaluru"
   date_start = "2020-01-01"
   date_end = ""
-  description = """ Part of the Data Science/NLP Team 
+  description = """ Projects :-
   
   
-* Built a question answer scoring system, and a novel feature importance algorithm to score Request For Proposals issued by the US Government.
-*  Created a query resolution system that learns user behaviour and assists UHC operators to reduce average handling time by 38 seconds, effectively saving 72000$.
-*  Built a disease prediction system, along with a synthetic data generation algorithm, that can predict occurences of disease based on visit history.
+*  Question answer scoring for Healthcare applications (Patent Pending).
+*  A model agnostic feature importance algorithm for DNNs (Patent Pending).
+*  Research on NLP use cases in the Clinical Domain.
 *  Created a One-Function-Classification Library that lowers the effort and time needed to train Transformer based NLP models.
-*  Undertook multiple learning sessions for Deep Learning in NLP as part of an upskilling drive.
+*  Easy to use deep learning library for transformer based models.
+* Augmented search capabilities for UHC customer care executives.
+* Extraction of meaningful entities from unstructured clinical data.
 
  """ 
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "NLP Research Associate"
+  company = "MIDAS Labs IIIT Delhi"
+  company_url = "http://midas.iiitd.edu.in/"
+  location = "New Delhi"
+  date_start = "2018-11-11"
+  date_end = " "
+  description = """
+Industry/Academia Collaborations - Bloomberg USA, MIT CSAIL, NUS Singapore, Adobe Research
+
+Projects
+
+
+* Detection of social media disclosures of sexual harassment (ACL 2019, NAACL 2019)
+* Detection of Hate speech using Graph Embeddings ( ACL 2019, ACM Hypertext 2019)
+* Novel ways for data augmentation in NLP.
+* Style Transfer in Text.
+
+
+
+
+
+
+
+"""
 
 +++
