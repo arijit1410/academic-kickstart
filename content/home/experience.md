@@ -59,7 +59,7 @@ Projects
 
 [[experience]]
   title = "Data Science Intern"
-  company = "RentSher Indiare"
+  company = "RentSher India"
   company_url = "https://www.rentsher.com/bangalore"
   location = "Bangalore"
   date_start = "2019-05-05"
